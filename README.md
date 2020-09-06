@@ -17,7 +17,7 @@ Undertook data preparation, customer analytics, experimentation, uplift testing,
 
 **Packages:** pandas, numpy, matplotlib, seaborn
 
-**Project Basis:** Virtual Internship with Quantium - project completed as a task for the Quantium Virtual Internship 
+**Project Basis:** Virtual Internship with Quantium
 
 ## Data Preparation and Customer Analytics
 
