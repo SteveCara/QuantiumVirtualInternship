@@ -42,6 +42,8 @@ Undertook data preparation, customer analytics, experimentation, uplift testing,
 **Trial Store vs Control Store Sales During Trial Period**
 ![image](images/TrialStores3.PNG)
 
+This revealed that the trial layout resulted in higher sales during the trial period.
+
 ## Experimentation and Uplift Testing
 
 I undertook experimentation and uplift testing to identify control stores, consisting of the following stages:
@@ -55,7 +57,7 @@ I undertook experimentation and uplift testing to identify control stores, consi
 - The performance of trial stores was compared to the control stores to assess the impact of the new trial layout
 
 
-**Sales by Brand""
+**Sales by Brand**
 ![image](/images/chipsales.PNG)
 
 **Product Weights**
