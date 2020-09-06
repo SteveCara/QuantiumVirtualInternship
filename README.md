@@ -1,9 +1,8 @@
 # Quantium Virtual Internship: Project Overview
-Undertook data preparation, customer analytics, experimentation, uplift testing, performance analytics and commercial application for a large dataset from a major supermarket franchise.
 
 - Undertook data cleaning, transformation and preparation of a large sample dataset from a major retailer
 
-- Undertook customer analytics to derive insights into customer spending behaviour and high performing products
+- Carried out customer analytics to derive insights into customer spending behaviour and high performing products
 
 - Developed a strategy for the spending manager to implement, which would optimise slaes for specific product categories 
 
