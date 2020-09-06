@@ -1,4 +1,4 @@
-# QuantiumVirtualInternship: Project Overview
+# Quantium Virtual Internship: Project Overview
 Undertook data preparation, customer analytics, experimentation, uplift testing, performance analytics and commercial application for a large dataset from a major supermarket franchise.
 
 - Undertook data cleaning, transformation and preparation of a large sample dataset from a major retailer
