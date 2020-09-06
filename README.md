@@ -35,11 +35,11 @@ Undertook data preparation, customer analytics, experimentation, uplift testing,
 
 ![salesprofile](https://user-images.githubusercontent.com/46332954/92329895-747c8400-f062-11ea-891a-ffe97dcc1ba0.PNG)
 
-![image](/images/TrialStores.PNG)
+![image](images/TrialStores.PNG)
 
-![image](/images/TrialStores2.PNG)
+![image](images/TrialStores2.PNG)
 
-![image](/images/TrialStores3.PNG)
+![image](images/TrialStores3.PNG)
 
 ## Experimentation and Uplift Testing
 
