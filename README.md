@@ -33,6 +33,8 @@ Undertook data preparation, customer analytics, experimentation, uplift testing,
 
 - Conducted a deep dive into customer segments to advise which segments should be targeted.  
 
+![salesprofile](https://user-images.githubusercontent.com/46332954/92329895-747c8400-f062-11ea-891a-ffe97dcc1ba0.PNG)
+
 ![image](/images/TrialStores.PNG)
 
 ![image](/images/TrialStores2.PNG)
