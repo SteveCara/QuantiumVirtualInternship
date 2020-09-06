@@ -32,6 +32,8 @@
 
 - Conducted a deep dive into customer segments to advise which segments should be targeted.  
 
+Some highlights are below.
+
 **Total Sales by Brand**
 ![image](/images/chipsales.PNG)
 
@@ -54,6 +56,8 @@ I undertook experimentation and uplift testing to identify control stores, consi
 - Control stores were selected based on their similarity to trial stores
 
 - The performance of trial stores was compared to the control stores to assess the impact of the new trial layout
+
+Some highlights are below.
 
 **Comparison of Trial and Control Store Pair**
 ![image](images/TrialStores.PNG)
