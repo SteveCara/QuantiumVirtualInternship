@@ -33,16 +33,16 @@ Undertook data preparation, customer analytics, experimentation, uplift testing,
 
 - Conducted a deep dive into customer segments to advise which segments should be targeted.  
 
-**Comparison of Trial and Control Store Pair**
-![image](images/TrialStores.PNG)
+**Total Sales by Brand**
+![image](/images/chipsales.PNG)
 
-**Trial Store Sales Perforance - Full Observation Period**
-![image](images/TrialStores2.PNG)
+**Product Weights with Outliers**
+![image](/images/chipweights.PNG)
 
-**Trial Store vs Control Store Sales During Trial Period**
-![image](images/TrialStores3.PNG)
+**Sales Profile (All Stores) - Full Observation Period**
+![image](/images/salesprofile.PNG)
 
-This revealed that the trial layout resulted in higher sales during the trial period.
+This indicated that the brands with the highest sales were Doritos, Smiths and Kettle. This also revealed that sales were highest in December during the holiday season.
 
 ## Experimentation and Uplift Testing
 
@@ -56,16 +56,16 @@ I undertook experimentation and uplift testing to identify control stores, consi
 
 - The performance of trial stores was compared to the control stores to assess the impact of the new trial layout
 
+**Comparison of Trial and Control Store Pair**
+![image](images/TrialStores.PNG)
 
-**Sales by Brand**
-![image](/images/chipsales.PNG)
+**Trial Store Sales Perforance - Full Observation Period**
+![image](images/TrialStores2.PNG)
 
-**Product Weights**
-![image](/images/chipweights.PNG)
+**Trial Store vs Control Store Sales During Trial Period**
+![image](images/TrialStores3.PNG)
 
-**Sales Profile (All Stores) - Full Observation Period**
-![image](/images/salesprofile.PNG)
-
+ This revealed that the trial layout resulted in higher sales during the trial period.
  
  ## Analytics and Commercial Application
  
