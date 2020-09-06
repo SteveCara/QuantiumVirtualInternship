@@ -24,20 +24,18 @@ Undertook data preparation, customer analytics, experimentation, uplift testing,
  This consisted of the following stages:
 
 - Examined transaction data looking for inconsistencies, missing data and outliers
+
 - Cleaned the data using ordinal mapping and filling of missing values and outliers with statistical best fit values
+
 - Merged customer data with transaction data to create a unified sales dataset
+
 - Defined performance metrics and identified total sales, drivers of sales and highest performing products
+
 - Conducted a deep dive into customer segments to advise which segments should be targeted.  
 
-## EDA
+## Experimentation and Uplift Testing
 
-I did some exploratory data analysis to better understand the relationships between different variables and summarise the main characteristics of the data. Some highlights are below. (The images can take some time to load. If they don't appear, see the images folder in the repo).
 
-![](/Images/wins_profile_EDA.PNG)
-
-![](/Images/pts_position_team_pivot_EDA.PNG)
-
-![](/Images/football_heatmap_EDA.PNG)
 
 ## Model Building
 
