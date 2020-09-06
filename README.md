@@ -34,8 +34,11 @@ Undertook data preparation, customer analytics, experimentation, uplift testing,
 - Conducted a deep dive into customer segments to advise which segments should be targeted.  
 
 ![image](/images/Jason-Ross-Rooms.jpg)
+
 ![image](/images/TrialStores.PNG)
+
 ![image](/images/TrialStores2.PNG)
+
 ![image](/images/TrialStores3.PNG)
 
 ## Experimentation and Uplift Testing
