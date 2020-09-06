@@ -55,7 +55,7 @@ I undertook experimentation and uplift testing to identify control stores, consi
 
 ![image](/images/chipweights.PNG)
 
-![image](/images/salesprofile.PNG)
+![image](/images/salesprofile.png)
 
  
  ## Analytics and Commercial Application
