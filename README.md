@@ -55,12 +55,12 @@ I undertook experimentation and uplift testing to identify control stores, consi
 
 ![image](/images/chipweights.PNG)
 
-![image](/images/salesprofile.png)
+![image](/images/salesprofile.PNG)
 
  
  ## Analytics and Commercial Application
  
- In this stage, I synthesised the results from the previous stages to prepare a summary report to the client. The results supported strategy recommendations for the Category Manager. 
+ In this stage, I synthesised the results from the previous stages to prepare a summary report to the client. The results informed strategy recommendations for the client. 
  
  
 
