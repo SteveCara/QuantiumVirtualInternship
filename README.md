@@ -33,6 +33,10 @@ Undertook data preparation, customer analytics, experimentation, uplift testing,
 
 - Conducted a deep dive into customer segments to advise which segments should be targeted.  
 
+![image](/images/TrialStores.PNG)
+![image](/images/TrialStores2.PNG)
+![image](/images/TrialStores3.PNG)
+
 ## Experimentation and Uplift Testing
 
 I undertook experimentation and uplift testing to identify control stores, consisting of the following stages:
@@ -45,8 +49,9 @@ I undertook experimentation and uplift testing to identify control stores, consi
 
 - The performance of trial stores was compared to the control stores to assess the impact of the new trial layout
 
-![image]
-![image]
+![image](/images/chipsales.PNG)
+![image](/images/chipweights.PNG)
+![image](/images/salesprofile.PNG)
 
  
  ## Analytics and Commercial Application
