@@ -35,12 +35,15 @@
 Some highlights are below.
 
 **Total Sales by Brand**
+
 ![image](/images/chipsales.PNG)
 
 **Product Weights with Outliers**
+
 ![image](/images/chipweights.PNG)
 
 **Sales Profile (All Stores) - Full Observation Period**
+
 ![image](/images/salesprofile.PNG)
 
 This indicated that the brands with the highest sales were Doritos, Smiths and Kettle. This also revealed that sales were highest in December during the holiday season.
@@ -60,12 +63,15 @@ I undertook experimentation and uplift testing to identify control stores, consi
 Some highlights are below.
 
 **Comparison of Trial and Control Store Pair**
+
 ![image](/images/TrialStores.PNG)
 
 **Trial Store Sales Perforance - Full Observation Period**
+
 ![image](/images/TrialStores2.PNG)
 
 **Trial Store vs Control Store Sales During Trial Period**
+
 ![image](/images/TrialStores3.PNG)
 
  This revealed that the trial layout resulted in higher sales during the trial period.
