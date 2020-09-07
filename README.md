@@ -60,13 +60,13 @@ I undertook experimentation and uplift testing to identify control stores, consi
 Some highlights are below.
 
 **Comparison of Trial and Control Store Pair**
-![image](images/TrialStores.PNG)
+![image](/images/TrialStores.PNG)
 
 **Trial Store Sales Perforance - Full Observation Period**
-![image](images/TrialStores2.PNG)
+![image](/images/TrialStores2.PNG)
 
 **Trial Store vs Control Store Sales During Trial Period**
-![image](images/TrialStores3.PNG)
+![image](/images/TrialStores3.PNG)
 
  This revealed that the trial layout resulted in higher sales during the trial period.
  
